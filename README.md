@@ -1,4 +1,6 @@
-# <img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/twitch_logo.png" width="10%">. Twitch Chat Analysis
+# <img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/twitch_logo.png" width="10%"> twitch.chat Analysis
+
+Exploring Twitch Chat
 
 ### Table of Contents
 0. [Contents](#contents)
@@ -37,15 +39,14 @@ A typical trend in analyzing data is that 60-80% of effort goes towards finding 
 My case was no different, a large part of my time was spent on learning more about the Twitch platform, learning to use the API, and then being able to extract the relevant fields that I identifed into a useable dataframe for further data analysis.
 
 * [twitch_chat_metadata_scraper.ipynb](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/src/twitch_chat_metadata_scraper.ipynb) imports channel metadata from a specifed channel every minute, outputs results to a .txt file
+* [twitch_chat_scraper.ipynb](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/src/twitch_chat_scraper.ipynb) uses Twitch API to retrieve Twitch chat in real-time and outputs to a .log file as they occur live
 
-*sample output*
+*sample output of channel metadata*
 ```
 2019-05-31T09:48:21.891992{'id': '34347046624', 'user_id': '30816637', 'user_name': 'AdmiralBulldog', 'game_id': '29595', 'community_ids': [], 'type': 'live', 'title': 'Secret vs OG || [A] @AdmiralBulldog', 'viewer_count': 6429, 'started_at': datetime.datetime(2019, 5, 31, 12, 2, 41), 'language': 'en', 'thumbnail_url': 'https://static-cdn.jtvnw.net/previews-ttv/live_user_admiralbulldog
 ```
 
-* [twitch_chat_scraper.ipynb](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/src/twitch_chat_scraper.ipynb) uses Twitch API to retrieve Twitch chat in real-time and outputs to a .log file as they occur live
-
-*sample output*
+*sample output of twitch chat*
 ```
 2019-05-31_09:49:44 — :gandor87!gandor87@gandor87.tmi.twitch.tv PRIVMSG #admiralbulldog :Pog
 
@@ -69,10 +70,10 @@ A few infographics of the EDA performed
 
 Word Clouds by Streamer
 
-<img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_admiralbulldog_word_cloud.png" width="25%">
-<img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_dota2ruhub_word_cloud.png" width="25%">
-<img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_playhearthstone_word_cloud.png" width="25%">
-<img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_solaryhs_word_cloud.png" width="25%">
+<img style="float:left;" src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_admiralbulldog_word_cloud.png" width="25%">&nbsp;
+<img style="float:left;"  src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_dota2ruhub_word_cloud.png" width="25%">&nbsp;
+<img style="float:left;"  src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_playhearthstone_word_cloud.png" width="25%">&nbsp;
+<img style="float:left;"  src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_solaryhs_word_cloud.png" width="25%">&nbsp;
 
 
 ## Future_work
