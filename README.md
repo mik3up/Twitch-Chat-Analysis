@@ -1,5 +1,4 @@
-# Twitch Chat Analysis
-<img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/twitch_logo.png" width="10%">.
+# <img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/twitch_logo.png" width="10%">. Twitch Chat Analysis
 
 ### Table of Contents
 0. [Contents](#contents)
@@ -69,10 +68,11 @@ A few infographics of the EDA performed
 ![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/bar_chat_count.png "channel v chat count")
 
 Word Clouds by Streamer
-![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_admiralbulldog_word_cloud.png =250x250)
-![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_dota2ruhub_word_cloud.png =250x250)
-![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_playhearthstone_word_cloud.png =250x250)
-![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_solaryhs_word_cloud.png =250x250)
+
+<img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_admiralbulldog_word_cloud.png" width="25%">
+<img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_dota2ruhub_word_cloud.png" width="25%">
+<img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_playhearthstone_word_cloud.png" width="25%">
+'<img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_solaryhs_word_cloud.png" width="25%">
 
 
 ## Future_work
