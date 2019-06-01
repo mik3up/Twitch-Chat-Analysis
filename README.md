@@ -70,10 +70,10 @@ A few infographics of the EDA performed
 
 Word Clouds by Streamer
 
-<img style="float:left;" src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_admiralbulldog_word_cloud.png" width="25%">&nbsp;
-<img style="float:left;"  src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_dota2ruhub_word_cloud.png" width="25%">&nbsp;
-<img style="float:left;"  src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_playhearthstone_word_cloud.png" width="25%">&nbsp;
-<img style="float:left;"  src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_solaryhs_word_cloud.png" width="25%">&nbsp;
+<img style="float:left;" src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_admiralbulldog_word_cloud.png" width="40%">&nbsp;
+<img style="float:left;"  src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_dota2ruhub_word_cloud.png" width="40%">&nbsp;
+<img style="float:left;"  src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_playhearthstone_word_cloud.png" width="40%">&nbsp;
+<img style="float:left;"  src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_solaryhs_word_cloud.png" width="40%">&nbsp;
 
 
 ## Future_work
