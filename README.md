@@ -1,5 +1,5 @@
 # Twitch Chat Analysis
-![twitch_logo](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/twitch_logo.png =25x25)
+<img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/twitch_logo.png" width="10%">.
 
 ### Table of Contents
 0. [Contents](#contents)
