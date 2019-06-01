@@ -1,7 +1,7 @@
 # Twitch Chat Analysis
-![twitch_logo](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/twitch_logo.png)
+![twitch_logo](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/twitch_logo.png =25x25)
 
-### Contents
+### Table of Contents
 0. [Contents](#contents)
 1. [Motivation](#motivation)
 2. [Powerpoint](#Powerpoint)
@@ -13,7 +13,7 @@
 
 <!-- add background on what twitch -->
 
-## Motivation
+## Motivation ![pogchamp](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/pogchamp.jpg) ![pogchamp](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/pogchamp.jpg) ![pogchamp](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/pogchamp.jpg)
 
 * The world of eSports is experiencing amazing growth, technology has enabled a new category and platform to rise, and allows fans to become integrated in with the larger community.
 * Having been a gamer for my whole life and also working in the field of data, I was surprised at the lack of analysis despite the scale of eSports
@@ -22,8 +22,6 @@
     * What does engagement translate to in the business case (more ads? predicting better content?)
     * What determines good content? Can this be learned through data?
 * Twitch was an ideal platform to use, with an average of 15 million daily Twitch viewers who watch and average of 95 minutes per day, Twitch has the scale, and depth in better understanding this coorelation.
-
-#### POGCHAMP! ![pogchamp](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/pogchamp.jpg) ![pogchamp](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/pogchamp.jpg) ![pogchamp](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/pogchamp.jpg)
 
 ## Powerpoint
 
@@ -41,14 +39,14 @@ My case was no different, a large part of my time was spent on learning more abo
 
 * [twitch_chat_metadata_scraper.ipynb](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/src/twitch_chat_metadata_scraper.ipynb) imports channel metadata from a specifed channel every minute, outputs results to a .txt file
 
-sample output
+*sample output*
 ```
 2019-05-31T09:48:21.891992{'id': '34347046624', 'user_id': '30816637', 'user_name': 'AdmiralBulldog', 'game_id': '29595', 'community_ids': [], 'type': 'live', 'title': 'Secret vs OG || [A] @AdmiralBulldog', 'viewer_count': 6429, 'started_at': datetime.datetime(2019, 5, 31, 12, 2, 41), 'language': 'en', 'thumbnail_url': 'https://static-cdn.jtvnw.net/previews-ttv/live_user_admiralbulldog
 ```
 
 * [twitch_chat_scraper.ipynb](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/src/twitch_chat_scraper.ipynb) uses Twitch API to retrieve Twitch chat in real-time and outputs to a .log file as they occur live
 
-sample output
+*sample output*
 ```
 2019-05-31_09:49:44 — :gandor87!gandor87@gandor87.tmi.twitch.tv PRIVMSG #admiralbulldog :Pog
 
@@ -69,10 +67,12 @@ Sampled 6 channels across the gaming category (hearthstone/dota2)
 A few infographics of the EDA performed
 
 ![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/bar_chat_count.png "channel v chat count")
-![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_admiralbulldog_word_cloud.png =250x250 "Word cloud for DOTA2 streamer, Admiral_bulldog")
-![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_dota2ruhub_word_cloud.png =250x250 "Word cloud for DOTA2 streamer, Dota2ruhub")
-![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_playhearthstone_word_cloud.png =250x250 "Word cloud for Hearthstone streamer, playhearthstone")
-![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_solaryhs_word_cloud.png =250x250 "Word cloud for Hearthstone streamer, Solaryhs")
+
+Word Clouds by Streamer
+![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_admiralbulldog_word_cloud.png =250x250)
+![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_dota2ruhub_word_cloud.png =250x250)
+![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_playhearthstone_word_cloud.png =250x250)
+![alt text](https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_solaryhs_word_cloud.png =250x250)
 
 
 ## Future_work
