@@ -72,7 +72,7 @@ Word Clouds by Streamer
 <img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_admiralbulldog_word_cloud.png" width="25%">
 <img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[DOTA]_dota2ruhub_word_cloud.png" width="25%">
 <img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_playhearthstone_word_cloud.png" width="25%">
-'<img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_solaryhs_word_cloud.png" width="25%">
+<img src="https://github.com/mik3up/Twitch-Chat-Analysis/blob/master/images/[HS]_solaryhs_word_cloud.png" width="25%">
 
 
 ## Future_work
