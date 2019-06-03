@@ -24,10 +24,6 @@ Exploring Twitch Chat
     * What determines good content? Can this be learned through data?
 * Twitch was an ideal platform to use, with an average of 15 million daily Twitch viewers who watch and average of 95 minutes per day, Twitch has the scale, and depth in better understanding this coorelation.
 
-## Powerpoint
-
-Powerpoint presentation: [link](https://drive.google.com/file/d/1v_HMjvs2c6H-bqARwmNgRTE1vPNxhU1k/view?usp=sharing)
-
 ## Hypothesis_test
 
 Null Hypothesis: The frequency of Twitch chat will not results in more viewers staying in the channel.
