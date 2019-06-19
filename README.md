@@ -11,6 +11,7 @@ Exploring Twitch Chat
 5. [EDA_analysis](#EDA_analysis)
 6. [Future_work](#Future_work)
  
+[Powerpoint Presentation](https://drive.google.com/file/d/1v_HMjvs2c6H-bqARwmNgRTE1vPNxhU1k/view?usp=sharing)
 
 <!-- add background on what twitch -->
 
