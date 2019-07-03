@@ -10,8 +10,11 @@ Exploring Twitch Chat
 4. [Getting_data](#Getting_data)
 5. [EDA_analysis](#EDA_analysis)
 6. [Future_work](#Future_work)
- 
-[Powerpoint Presentation](https://drive.google.com/file/d/1v_HMjvs2c6H-bqARwmNgRTE1vPNxhU1k/view?usp=sharing)
+7. [Sentiment_analysis](#Sentiment_analysis)
+
+[Capstone 1 Powerpoint Presentation](https://drive.google.com/file/d/1v_HMjvs2c6H-bqARwmNgRTE1vPNxhU1k/view?usp=sharing)
+[Capstone 2 Powerpoint Presentation](https://drive.google.com/file/d/1RgTqCa1gdgiZmZUYHGNUDlaUOfVb7sP_/view?usp=sharing)
+
 
 <!-- add background on what twitch -->
 
@@ -83,3 +86,17 @@ Following up on this, I would like to...
 * NLP / Sentiment analysis on Twitch chat
 * Content analysis - can chat tell when content is becoming relevant and we can generate a clip?
 * Improve the data workflow so it takes one python file, currently I need to run 2 python files per channel (not scalable)
+
+
+<i>Updated July 3, 2019<i>
+
+## Sentiment_analysis
+
+* Updated and automated pipeline to pull chat data from multiple channels simultaneously using multithreading
+* Analyzed data from Edisonparklive
+
+## Follow_Up2
+
+* Further analyze sentiment across more channels
+* Add personalized sentiment to the vader sendiment dictionary
+* Apply context to the Sentiment
